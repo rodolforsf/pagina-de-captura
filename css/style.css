@@ -29,7 +29,6 @@ section{
     background-image: url(../images/people.jpg);
     background-size: cover;
     overflow: hidden;
-
 }
 
 .formContainer{
@@ -37,7 +36,6 @@ section{
     background-color: #FFFFFFBB;
     padding: 20px;
     float: right;
-
 }
 
 h2{
@@ -71,13 +69,12 @@ select{
     background-position: calc(100% - 10px) center;
 }
 
-
 footer{
     background-color: #202121;
     padding: 40px;
-    text-align: center;
-    
+    text-align: center;    
 }
+
 .picture{
     width: 160px;
 }
@@ -88,7 +85,6 @@ footer{
     color: white;
     max-width: 40%;
     margin-left: 40px;
-
 }
 
 .description p, .description h3{
